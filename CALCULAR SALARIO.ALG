@@ -1,4 +1,6 @@
 Algoritmo "Calcular Salario"
+//  
+//  
 
 //Disciplina:[Linguagem e Lógica de Programação]
 
@@ -14,7 +16,7 @@ sal,com,vendas,sf:real
 
 Inicio
 escreval("Bem vindo, irei calcular o seu salário")
-escreval("Valor do seu salário")
+escreval("Qual o valor do seu salári?")
 leia(sal)
 escreval("Valor total das vendas")
 leia(vendas)
